@@ -1,0 +1,53 @@
+body{
+	text-align: center;
+	color: #700;
+	background-color: #7F7F7F;
+	margin-top: 15px;
+	margin-right: 200px;
+	margin-left: 100px;
+}
+
+h2{
+	color: #700;
+	text-align: center;
+	font-size: 3em;
+
+}
+
+h3{
+	text-align: center;
+	background-color: #7F7F7F;
+	color: #700;
+}
+
+button{
+	background-color: #7F7F7F;
+	border-color: #700;
+
+}
+
+i{
+	text-align: center;
+	background-color: #7F7F7F;
+	color: #700;
+	margin-top: 15px;
+}
+
+input{
+  border-color: #700;
+  background-color: #FFF;
+  margin-left: 15px;
+  margin-right: 20px;
+  text-align: center;
+
+
+}
+
+
+
+
+
+
+
+
+
