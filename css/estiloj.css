@@ -1,0 +1,127 @@
+#login{
+	margin-top: 4%;
+	margin-left: 32%
+	margin-right: 32%;
+}
+
+#login form{
+	width: 400px;
+	text-align: center;
+
+}
+
+#logindatos{
+	border: none;
+	margin-top: 5px;
+	border-radius: 10px;
+}
+
+#login .img{
+	margin: 18px;
+	position: absolute;
+	width: 30px;
+	border-radius: 0px;
+}
+
+.terminos{
+	font-size: 11px;
+	color: #fff;
+}
+#login input{
+	border-radius: 15px;
+	width: 300px;
+	height: 35px;
+	margin: 10px;
+}
+
+#login input.terminos{
+	width: 20px;
+	height: 20px;
+
+}
+
+.control{
+	padding-left: 45px;
+	font-size: 18px;
+
+}
+
+#boton{
+	background-color: rgba(164,179,87,1);
+	border-radius: 15px;
+	width: 150px;
+	height: 40px;
+	color: #fff;
+	font-family: century gothic;
+	margin-top: 3px;
+	margin-left: 185px;
+}
+
+.formdatos{
+	color: #fff;
+
+}
+
+form{
+	width: 1115px;
+	height: 500px;
+	border-radius: 15px;
+	padding: 22px;
+	margin: 20px auto;
+}
+
+fieldset{
+	font-family: century gothic;
+	padding: 12px;
+	float: left;
+	width: 15px;
+	margin-top: 5px;
+	border-radius: 10px;
+	height: 332px;
+	margin-left: 13px;
+}
+
+img{
+	float: left;
+	width: 90px;
+	height: 70px;
+	border-radius: 5px;
+	margin: 0px 22px;
+
+}
+
+.formdatos button{
+	margin-top: 3px;
+	margin-left: 830px;
+}
+	
+p{
+	margin-top: 15%;
+	padding-bottom: 15%;
+	font-size: 48px;
+	text-align: center;
+
+}
+
+form{
+	font-family: century gothic;
+	background-color: rgba(76,76,76,1);
+	box-shadow: 10px 10px 112px 0px rgba(0,0,0,0.75);
+}
+
+.required{
+	border-radius: 15px;
+	box-shadow: 0px 0px 5px #808080;
+
+}
+
+.invalid{
+	border-radius: 15px;
+	border-color: rgba(164,179,87,1);
+}
+
+h1{
+	margin-top: 6px;
+	color: #fff;
+
+}
